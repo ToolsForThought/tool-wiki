@@ -12,6 +12,7 @@ This is a list of variables you need to edit when duplicating and modifying temp
   6. Hand-written notes
   7. Mind-map
   8. Visual workspace
+
 3. **{{tool-pricing}}**
 4. **{{tool-platforms}}**
 5. **{{tool-security}}**
