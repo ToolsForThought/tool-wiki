@@ -16,15 +16,20 @@ Contributors with over 2500 approved character additions will receive free acces
 
 # Citations
 
+Ciations should be done using the following pattern:
 
+```
+A sentence that references a source.[[1]](#1)
 
-🚧 **Not yet ready for editing - please check back later** 🚧
+# References
+<a id="1">[1]</a>
+[Example.com](http://example.com/). Retrieved 05-06-2021.
+```
 
 ## To-do
 
 - [x]  Create blank tool template [Tool template](https://github.com/ToolsForThought/tool-wiki/blob/master/template.md)
-- [ ]  Write up the pull-request process in the readme
+- [x]  Write up the pull-request process in the readme
 - [x]  Finish variables.md
-- [ ]  Create contributing.md
-- [ ]  Choose license
 - [ ]  Share in #announcements
+- [ ]  Choose license
