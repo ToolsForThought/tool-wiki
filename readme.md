@@ -31,5 +31,5 @@ A sentence that references a source.[[1]](#1)
 - [x]  Create blank tool template [Tool template](https://github.com/ToolsForThought/tool-wiki/blob/master/template.md)
 - [x]  Write up the pull-request process in the readme
 - [x]  Finish variables.md
-- [ ]  Share in #announcements
-- [ ]  Choose license
+- [x]  Share in #announcements
+- [x]  Choose license
